@@ -71,7 +71,7 @@ Make sure to follow the established coding style and guidelines.
 
 ## License
 
-The Modern-Bank landing page website is licensed under the [MIT License](https://github.com/your-username/Modern-Bank/blob/main/LICENSE).
+The Modern-Bank landing page website is licensed under the [MIT License](https://github.com/HimeshKohad/Modern-Bank/blob/main/LICENSE.md).
 
 ## Acknowledgements
 
